@@ -1,0 +1,12 @@
+id,valor,created_at
+sin informacion, -1,2022-01-01
+negativo,1,2022-01-01
+muy bajo,2,2022-01-01
+bajo,3,2022-01-01
+medio bajo,4,2022-01-01
+medio,5,2022-01-01
+medio alto,6,2022-01-01
+alto,7,2022-01-01
+muy alto,8,2022-01-01
+autogestión,9,2022-01-01
+medio - alto,10,2022-01-02
